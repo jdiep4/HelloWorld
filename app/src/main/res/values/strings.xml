@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="first_prog">My 1st Program!</string>
+    <string name="click_me">CLICK ME</string>
+</resources>
